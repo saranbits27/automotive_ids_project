@@ -8,3 +8,5 @@ tsfresh
 matplotlib
 seaborn
 memory-profiler
+tensorflow
+keras
